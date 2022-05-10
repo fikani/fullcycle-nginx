@@ -1,0 +1,1 @@
+create table people (id integer auto_increment, name varchar(255) not null, primary key(id));
