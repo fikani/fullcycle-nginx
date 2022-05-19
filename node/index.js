@@ -1,6 +1,6 @@
-import mysql from "mysql";
-import express from "express";
-import util from "util";
+const express = require("express");
+const mysql = require("mysql");
+const util = require("util");
 
 // node native promisify
 
